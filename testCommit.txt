@@ -1,0 +1,2 @@
+This is a new file i am creating to teach commits and
+basic git commands.
